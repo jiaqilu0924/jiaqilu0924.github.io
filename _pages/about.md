@@ -10,7 +10,7 @@ redirect_from:
 
 
 
-Jiaqi Lu is a second-year Ph.D. student at Harvard University, advised by Prof. [Xiaowei Zhuang](https://zhuang.harvard.edu/index.html). My research focuses on developing high-throughput experimental platforms and AI models for single-cell functional genomics and proteomics at subcellular resolution. My work in AI for science is advised by Prof. [Mengdi Wang](https://mwang.princeton.edu/) at Princeton University. I previously worked with [John Reif](https://users.cs.duke.edu/~reif/research.html) and [Marya Lieberman](https://chemistry.nd.edu/people/marya-lieberman/) on DNA nanotechnology. Feel free to contact me for potential collaborations or discussions.
+Jiaqi Lu is a second-year Ph.D. student at Harvard University, advised by Prof. [Xiaowei Zhuang](https://zhuang.harvard.edu/index.html). My research focuses on developing high-throughput experimental platforms and advanced AI models for single-cell functional genomics and proteomics. My work in AI for science is advised by Prof. [Mengdi Wang](https://mwang.princeton.edu/) at Princeton University. I previously worked with [John Reif](https://users.cs.duke.edu/~reif/research.html) and [Marya Lieberman](https://chemistry.nd.edu/people/marya-lieberman/) on DNA nanotechnology. Feel free to contact me for potential collaborations or discussions.
 
 # Research Summary
 My goal is to build powerful experimental platforms and AI models capable of generating and understanding high-dimensional data across diverse modalities. I currently focus on developing imaging-based platform for understanding the function of hundreds of genes in vivo and thousands of proteins in vitro. 

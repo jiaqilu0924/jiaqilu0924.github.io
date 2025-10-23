@@ -10,24 +10,24 @@ redirect_from:
 
 
 
-Hello! I am a third-year Ph.D. student at Harvard University, advised by Professor [Xiaowei Zhuang](https://zhuang.harvard.edu/index.html). My Ph.D. thesis focuses on imaging-based functional genomics, developing high throughput single-cell perturbation experimental platforms and AI models to study the functions of hundreds and thousands of genes and proteins. I have been applying the platform and models I developed to the study of viral proteome and early embryogenesis, two ancient and mysterious biology that nature has evolved. My computational work with Professors [Jonathan Gootenberg and Omar Abudayyeh](https://www.abugootlab.org/) focuses on biological reasoning and generative modeling. I co-lead projects on developing multi-scale, multimodal co-diffusion architecture for spatial prediction. I am also involved in building a LLM AI-scientist in collaboration with Google and single-cell perturbation modeling towards building a Virtual Cell. I previously worked under the guidance of Professor [John H. Reif](https://users.cs.duke.edu/~reif/research.html) and Professor [Marya Lieberman](https://chemistry.nd.edu/people/marya-lieberman/) on DNA nanotechnology, designing autocatalytic DNA nanomachines; and supervised by Professor [Yamil J. Colón](https://www.computationalnano.org/) on deep learning prediction of thermodynamics properties.
+Hello! I am Jiaqi Lu, a third-year Ph.D. student at Harvard University, advised by Professor [Xiaowei Zhuang](https://zhuang.harvard.edu/index.html). My Ph.D. thesis focuses on imaging-based functional genomics, developing high throughput single-cell perturbation experimental platforms and AI models to study the functions of hundreds and thousands of genes and proteins. I have been applying the platform and models I developed to the study of viral proteome and early embryogenesis, two ancient and mysterious biology that nature has evolved. My computational work with Professors [Jonathan Gootenberg and Omar Abudayyeh](https://www.abugootlab.org/) focuses on biological reasoning and generative modeling. I co-lead projects on developing multi-scale, multimodal co-diffusion architecture for spatial biology prediction. I am also involved in building a LLM AI-scientist in collaboration with Google and single-cell perturbation modeling towards building a Virtual Cell. I previously worked under the guidance of Professor [John H. Reif](https://users.cs.duke.edu/~reif/research.html) and Professor [Marya Lieberman](https://chemistry.nd.edu/people/marya-lieberman/) on DNA nanotechnology, designing autocatalytic DNA nanomachines; and supervised by Professor [Yamil J. Colón](https://www.computationalnano.org/) on using deep learning to predict thermodynamics properties of ionic liquids.
 
 # Research Summary
-I am interested in learning more about how natural complex system works.
+I am interested in learning more about how natural complex system works, from a cell to multicellular organization.
 
 # Selected Publications
 * *Perturb-Multimodal: a Platform for Pooled Genetic Screens with Sequencing and Imaging in Intact Mammalian Tissue*  
-Reuben A Saunders\*, William E Allen\*, Xingjie Pan, Jaspreet Sandhu, **Jiaqi Lu**, Thomas K Lau, Karina Smolyar, Zuri Sullivan, Catherine Dulac, Jonathan S Weissman, Xiaowei Zhuang
-Cell (2025)
+Reuben A Saunders\*, William E Allen\*, Xingjie Pan, Jaspreet Sandhu, **Jiaqi Lu**, Thomas K Lau, Karina Smolyar, Zuri Sullivan, Catherine Dulac, Jonathan S Weissman, Xiaowei Zhuang  
+Cell (2025)  
 [paper](10.1016/j.cell.2025.05.022)
 
-* *Count Bridges enable Modeling and Deconvolving Transcriptomics*
-Nic Fishman, Gokul Gowri, Tanush Kumar, Jiaqi Lu, Valentin De Bortoli, Jonathan S. Gootenberg, Omar Abudayyeh
-Under review (2025)
+* *Count Bridges enable Modeling and Deconvolving Transcriptomics*  
+Nic Fishman, Gokul Gowri, Tanush Kumar, Jiaqi Lu, Valentin De Bortoli, Jonathan S. Gootenberg, Omar Abudayyeh  
+Under review (2025)  
 
 * *Protein‐protein interaction networks as miners of biological discovery*  
-Steven Wang\*, Runxin Wu\*, **Jiaqi Lu\***, Yijia Jiang, Tao Huang, Yu‐Dong Cai 
-Proteomics (2022)
+Steven Wang\*, Runxin Wu\*, **Jiaqi Lu\***, Yijia Jiang, Tao Huang, Yu‐Dong Cai  
+Proteomics (2022)  
 [paper](https://doi.org/10.1002/pmic.202100190)
 
 # Awards

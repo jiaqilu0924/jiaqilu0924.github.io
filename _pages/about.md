@@ -17,7 +17,7 @@ I am interested in learning more about how natural complex system works, from a 
 
 # Selected Publications
 * *Perturb-Multimodal: a Platform for Pooled Genetic Screens with Sequencing and Imaging in Intact Mammalian Tissue*  
-Reuben A Saunders\*, William E Allen\*, Xingjie Pan, Jaspreet Sandhu, **Jiaqi Lu**, Thomas K Lau, Karina Smolyar, Zuri Sullivan, Catherine Dulac, Jonathan S Weissman, Xiaowei Zhuang  
+Reuben A Saunders\*, William E Allen\*, Xingjie Pan, Jaspreet Sandhu, **Jiaqi Lu**, ..., Catherine Dulac, Jonathan S Weissman, Xiaowei Zhuang  
 Cell (2025)  
 [paper](https://www.cell.com/cell/fulltext/S0092-8674(25)00572-0)
 

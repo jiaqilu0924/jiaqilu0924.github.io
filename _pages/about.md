@@ -22,7 +22,7 @@ Cell (2025)
 [paper](10.1016/j.cell.2025.05.022)
 
 * *Count Bridges enable Modeling and Deconvolving Transcriptomics*  
-Nic Fishman, Gokul Gowri, Tanush Kumar, Jiaqi Lu, Valentin De Bortoli, Jonathan S. Gootenberg, Omar Abudayyeh  
+Nic Fishman, Gokul Gowri, Tanush Kumar, **Jiaqi Lu**, Valentin De Bortoli, Jonathan S. Gootenberg, Omar Abudayyeh  
 Under review (2025)  
 
 * *Protein‐protein interaction networks as miners of biological discovery*  

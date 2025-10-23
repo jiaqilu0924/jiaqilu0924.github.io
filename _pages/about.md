@@ -10,16 +10,20 @@ redirect_from:
 
 
 
-Jiaqi Lu is a second-year Ph.D. student at Harvard University, advised by Prof. [Xiaowei Zhuang](https://zhuang.harvard.edu/index.html). My research focuses on developing high-throughput experimental platforms and advanced AI models for single-cell functional genomics and proteomics. I previously worked with Prof. [John H. Reif](https://users.cs.duke.edu/~reif/research.html) and Prof. [Marya Lieberman](https://chemistry.nd.edu/people/marya-lieberman/) on DNA nanotech. Feel free to contact me for potential collaborations or discussions.
+Hello! I am a third-year Ph.D. student at Harvard University, advised by Professor [Xiaowei Zhuang](https://zhuang.harvard.edu/index.html). My Ph.D. thesis focuses on imaging-based functional genomics, developing high throughput single-cell perturbation experimental platforms and AI models to study the functions of hundreds and thousands of genes and proteins. I have been applying the platform and models I developed to the study of viral proteome and early embryogenesis, two ancient and mysterious biology that nature has evolved. My computational work with Professors [Jonathan Gootenberg and Omar Abudayyeh](https://www.abugootlab.org/) focuses on biological reasoning and generative modeling. I co-lead projects on developing multi-scale, multimodal co-diffusion architecture for spatial prediction. I am also involved in building a LLM AI-scientist in collaboration with Google and single-cell perturbation modeling towards building a Virtual Cell. I previously worked under the guidance of Professor [John H. Reif](https://users.cs.duke.edu/~reif/research.html) and Professor [Marya Lieberman](https://chemistry.nd.edu/people/marya-lieberman/) on DNA nanotechnology, designing autocatalytic DNA nanomachines; and supervised by Professor [Yamil J. Colón](https://www.computationalnano.org/) on deep learning prediction of thermodynamics properties.
 
 # Research Summary
-My goal is to build powerful experimental platforms and AI models capable of generating and understanding high-dimensional data across diverse modalities. I currently focus on developing imaging-based platform for understanding the function of hundreds of genes in vivo and thousands of proteins in vitro. 
+I am interested in learning more about how natural complex system works.
 
 # Selected Publications
 * *Perturb-Multimodal: a Platform for Pooled Genetic Screens with Sequencing and Imaging in Intact Mammalian Tissue*  
 Reuben A Saunders\*, William E Allen\*, Xingjie Pan, Jaspreet Sandhu, **Jiaqi Lu**, Thomas K Lau, Karina Smolyar, Zuri Sullivan, Catherine Dulac, Jonathan S Weissman, Xiaowei Zhuang
-BioRxiv (2024)
-[paper](https://doi.org/10.1101/2024.11.18.624217)
+Cell (2025)
+[paper](10.1016/j.cell.2025.05.022)
+
+* *Count Bridges enable Modeling and Deconvolving Transcriptomics*
+Nic Fishman, Gokul Gowri, Tanush Kumar, Jiaqi Lu, Valentin De Bortoli, Jonathan S. Gootenberg, Omar Abudayyeh
+Under review (2025)
 
 * *Protein‐protein interaction networks as miners of biological discovery*  
 Steven Wang\*, Runxin Wu\*, **Jiaqi Lu\***, Yijia Jiang, Tao Huang, Yu‐Dong Cai 

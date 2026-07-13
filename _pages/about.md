@@ -14,7 +14,7 @@ I am Jiaqi Lu (卢嘉琪), a Ph.D. candidate at Harvard University advised by Pr
 
 During my doctoral studies, I have had the privilege of collaborating with the laboratories of Prof. [Stephen Elledge](https://elledge.hms.harvard.edu/) and Prof. [Jonathan Weissman](https://weissman.wi.mit.edu/research/). Previously, I worked with Prof. [John H. Reif](https://users.cs.duke.edu/~reif/research.html), Prof. [Marya Lieberman](https://chemistry.nd.edu/people/marya-lieberman/), and Prof. [Yamil J. Colón](https://www.computationalnano.org/).
 
-Outside of research, I am into art and philosophy.
+I was born in 2002 and grew up in Beijing, China. I earned my bachelor’s degree from the University of Notre Dame in Indiana. During college, I changed my major from finance to biochemistry, turning down a summer analyst offer on Wall Street to pursue science. I completed the required chemistry coursework in two years and graduated a year early to begin my doctoral studies at Harvard. Outside the lab, I enjoy art and philosophy. My favorite cities in the United States are New York and Boston; my favorite cities in China are Beijing, Shanghai, and Hainan.
 
 # Research
 Life science remains a vast black box, its logic hidden within molecular and cellular networks. 
@@ -24,18 +24,15 @@ I am excited about developing new biochemical methods to uncover the emergent pr
 * To understand life is to learn the language to write it: How can we rewrite biology to better understand life itself?
 
 # Selected Publications
-* *Perturb-Multimodal: a Platform for Pooled Genetic Screens with Sequencing and Imaging in Intact Mammalian Tissue*  
-Reuben A Saunders\*, William E Allen\*, Xingjie Pan, Jaspreet Sandhu, **Jiaqi Lu**, ..., Catherine Dulac, Jonathan S Weissman, Xiaowei Zhuang  
-Cell (2025)  
+* **Cell (2025)**: *Perturb-Multimodal: a Platform for Pooled Genetic Screens with Sequencing and Imaging in Intact Mammalian Tissue*  
+Reuben A Saunders\*, William E Allen\*, Xingjie Pan, Jaspreet Sandhu, **Jiaqi Lu**, ..., Catherine Dulac, Jonathan S Weissman, Xiaowei Zhuang   
 [paper](https://www.cell.com/cell/fulltext/S0092-8674(25)00572-0)
 
-* *Count Bridges enable Modeling and Deconvolving Transcriptomics*  
+* **ICLR (2025)**: *Count Bridges enable Modeling and Deconvolving Transcriptomics*  
 Nic Fishman, Gokul Gowri, Tanush Kumar, **Jiaqi Lu**, Valentin De Bortoli, Jonathan S. Gootenberg, Omar Abudayyeh  
-ICLR (2025)  
-
-* *Protein‐protein interaction networks as miners of biological discovery*  
+ 
+* **Proteomics (2022)**: *Protein‐protein interaction networks as miners of biological discovery*  
 Steven Wang\*, Runxin Wu\*, **Jiaqi Lu\***, Yijia Jiang, Tao Huang, Yu‐Dong Cai  
-Proteomics (2022)  
 [paper](https://doi.org/10.1002/pmic.202100190)
 
 # Awards

@@ -14,7 +14,7 @@ Hello! I am Jiaqi Lu, Ph.D. student at Harvard University, advised by Professor 
 
 I previously worked  on DNA nanotechnology under the guidance of Professor [John H. Reif](https://users.cs.duke.edu/~reif/research.html) and Professor [Marya Lieberman](https://chemistry.nd.edu/people/marya-lieberman/), designing autocatalytic DNA nanomachines; and supervised by Professor [Yamil J. Colón](https://www.computationalnano.org/) on using deep learning to predict molecular thermodynamics.
 
-# Research Summary
+# Research
 Life science remains a vast black box: its underlying logic concealed within the intricate interplay of molecular and cellular networks. My hope is to uncover the emergent behaviors that illuminate the fundamental principles of life.  I am fascinated by these questions:
 * How do intricate signaling cascades within a cell interact to give rise to functions?
 * How do individual cells coordinate to form multicellular organization and ultimately give rise to life?

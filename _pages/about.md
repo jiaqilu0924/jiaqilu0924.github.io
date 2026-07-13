@@ -10,15 +10,15 @@ redirect_from:
 
 
 
-Hello! I am Jiaqi Lu, Ph.D. student at Harvard University, advised by Professor [Xiaowei Zhuang](https://zhuang.harvard.edu/index.html). My Ph.D. thesis focuses on developing single-cell perturbation platforms and AI models to study the functions of hundreds and thousands of genes and proteins in situ, systematically discovering the functions of thousands of exogenous proteins and revealing new biological mechanistics. I am also working on developing a high-throughput imaging method for studying ectopic signaling in vivo.
+Hello! I am Jiaqi Lu, Ph.D. student at Harvard University, advised by Professor [Xiaowei Zhuang](https://zhuang.harvard.edu/index.html) and affiliated with MIT. My Ph.D. thesis focuses on developing single-cell perturbation platforms and AI models to study the functions of hundreds and thousands of genes and proteins in situ, systematically discovering the functions of thousands of exogenous proteins and revealing new biological mechanistics. I am also working on developing a high-throughput imaging method for studying ectopic signaling in vivo. Previously, I worked  on DNA nanotechnology under the guidance of Professor [John H. Reif](https://users.cs.duke.edu/~reif/research.html) and Professor [Marya Lieberman](https://chemistry.nd.edu/people/marya-lieberman/), designing autocatalytic DNA nanomachines; and supervised by Professor [Yamil J. Colón](https://www.computationalnano.org/) on using deep learning to predict molecular thermodynamics.
 
-I previously worked  on DNA nanotechnology under the guidance of Professor [John H. Reif](https://users.cs.duke.edu/~reif/research.html) and Professor [Marya Lieberman](https://chemistry.nd.edu/people/marya-lieberman/), designing autocatalytic DNA nanomachines; and supervised by Professor [Yamil J. Colón](https://www.computationalnano.org/) on using deep learning to predict molecular thermodynamics.
+Outside of research, I love arts and philosophy.
 
 # Research
-Life science remains a vast black box: its underlying logic concealed within the intricate interplay of molecular and cellular networks. My hope is to uncover the emergent behaviors that illuminate the fundamental principles of life.  I am fascinated by these questions:
-* How do intricate signaling cascades within a cell interact to give rise to functions?
-* How do individual cells coordinate to form multicellular organization and ultimately give rise to life?
-* To understand life is to gain the language to write it: how can we edit, program, and write biology to deepen our understanding of life itself?
+Life science remains a vast black box, its logic hidden within molecular and cellular networks. I hope to uncover the emergent principles that govern life:
+* How do intracellular signaling networks generate cellular functions?
+* How do cells communicate and coordinate in living systems to give rise to complex physiology?
+* To understand life is to gain the language to write it: How can we rewrite biology to better understand life itself?
 
 # Selected Publications
 * *Perturb-Multimodal: a Platform for Pooled Genetic Screens with Sequencing and Imaging in Intact Mammalian Tissue*  

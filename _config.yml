@@ -22,7 +22,7 @@ repository               : "jiaqilu0924/jiaqilu0924.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "https://github.com/jiaqilu0924/jiaqilu0924.github.io/blob/master/images/profile.png"
   name             : "Jiaqi Lu"
   pronouns         : #
   bio              : "Ph.D. Candidate at Harvard University"

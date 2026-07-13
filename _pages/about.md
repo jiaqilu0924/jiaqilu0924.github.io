@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-
+<div style="font-size: 0.9em;" markdown="1">
 
 Hello! I am Jiaqi Lu, Ph.D. student at Harvard University, advised by Professor [Xiaowei Zhuang](https://zhuang.harvard.edu/index.html) and affiliated with MIT. My Ph.D. thesis focuses on developing single-cell perturbation platforms and AI models to study the functions of hundreds and thousands of genes and proteins in situ, systematically discovering the functions of thousands of exogenous proteins and revealing new biological mechanistics. I am also working on developing a high-throughput imaging method for studying ectopic signaling in vivo. Previously, I worked  on DNA nanotechnology under the guidance of Professor [John H. Reif](https://users.cs.duke.edu/~reif/research.html) and Professor [Marya Lieberman](https://chemistry.nd.edu/people/marya-lieberman/), designing autocatalytic DNA nanomachines; and supervised by Professor [Yamil J. Colón](https://www.computationalnano.org/) on using deep learning to predict molecular thermodynamics.
 
@@ -40,3 +40,5 @@ Proteomics (2022)
 * Vincent P. Slatt Fellowship for Undergraduate Research in Energy Systems and Processes, 2022.
 * Summer Research Funding, Meruelo Family Center for Career Development, 2022.
 * Dean’s List, College of Science, 2021.
+
+</div>

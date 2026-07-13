@@ -10,7 +10,9 @@ redirect_from:
 
 <div style="font-size: 0.9em;" markdown="1">
 
-Hello! I am Jiaqi Lu, Ph.D. student at Harvard University, advised by Professor [Xiaowei Zhuang](https://zhuang.harvard.edu/index.html) and affiliated with MIT. My Ph.D. thesis focuses on developing single-cell perturbation platforms and AI models to study the functions of hundreds and thousands of genes and proteins in situ, systematically discovering the functions of thousands of exogenous proteins and revealing new biological mechanistics. I am also working on developing a high-throughput imaging method for studying ectopic signaling in vivo. Previously, I worked  on DNA nanotechnology under the guidance of Professor [John H. Reif](https://users.cs.duke.edu/~reif/research.html) and Professor [Marya Lieberman](https://chemistry.nd.edu/people/marya-lieberman/), designing autocatalytic DNA nanomachines; and supervised by Professor [Yamil J. Colón](https://www.computationalnano.org/) on using deep learning to predict molecular thermodynamics.
+Hello! I am Jiaqi Lu, Ph.D. candidate at Harvard University, advised by Professor [Xiaowei Zhuang](https://zhuang.harvard.edu/index.html) and affiliated with MIT. My doctoral research focuses on developing single-cell perturbation platforms that integrate multimodal imaging with AI models to study the functions of hundreds to thousands of genes and proteins in situ. Through these approaches, I systematically characterize thousands of viral proteins that could potentially uncover new biological mechanisms. I am also developing a high-throughput imaging method to study ectopic signaling in vivo.
+
+I had the pleasure collaborating with labs of Prof. [Stephen Elledge](https://elledge.hms.harvard.edu/) and Prof. [Jonathan Weissman](https://weissman.wi.mit.edu/research/). Previously, I worked  with Prof. [John H. Reif](https://users.cs.duke.edu/~reif/research.html), Prof. [Marya Lieberman](https://chemistry.nd.edu/people/marya-lieberman/), and Prof. [Yamil J. Colón](https://www.computationalnano.org/).
 
 Outside of research, I love arts and philosophy.
 

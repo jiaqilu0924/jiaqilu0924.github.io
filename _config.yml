@@ -13,7 +13,7 @@ title                    : "Jiaqi Lu"
 title_separator          : "-"
 name                     : &name "Jiaqi Lu's Personal Page"
 description              : &description "personal description"
-url                      : https://academicpages.github.io # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io"
+url                      : "https://jiaqilu0924.github.io" # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "jiaqilu0924/jiaqilu0924.github.io"
 
@@ -22,7 +22,7 @@ repository               : "jiaqilu0924/jiaqilu0924.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "https://github.com/jiaqilu0924/jiaqilu0924.github.io/blob/master/images/profile.png"
+  avatar           : "profile.png"
   name             : "Jiaqi Lu"
   pronouns         : #
   bio              : "Ph.D. Candidate at Harvard University"

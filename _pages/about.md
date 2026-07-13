@@ -10,17 +10,18 @@ redirect_from:
 
 <div style="font-size: 0.9em;" markdown="1">
 
-Hello! I am Jiaqi Lu, Ph.D. candidate at Harvard University, advised by Professor [Xiaowei Zhuang](https://zhuang.harvard.edu/index.html) and affiliated with MIT. My doctoral research focuses on developing single-cell perturbation platforms that integrate multimodal imaging with AI models to study the functions of hundreds to thousands of genes and proteins in situ. Through these approaches, I systematically characterize thousands of viral proteins that could potentially uncover new biological mechanisms. I am also developing a high-throughput imaging method to study ectopic signaling in vivo.
+I am Jiaqi Lu (卢嘉琪), a Ph.D. candidate at Harvard University advised by Prof. [Xiaowei Zhuang](https://zhuang.harvard.edu/index.html). I am affiliated with Harvard SEAS, MIT, and HHMI. My doctoral research focuses on developing single-cell perturbation platforms that integrate multimodal imaging with AI models to study the functions of hundreds to thousands of genes and proteins in situ. Through these approaches, I systematically characterized thousands of viral proteins with the goal of uncovering new biological mechanisms. I am also developing a high-throughput imaging method to study inter-organ ectopic signaling in vivo in complex immunological context.
 
-I had the pleasure collaborating with labs of Prof. [Stephen Elledge](https://elledge.hms.harvard.edu/) and Prof. [Jonathan Weissman](https://weissman.wi.mit.edu/research/). Previously, I worked  with Prof. [John H. Reif](https://users.cs.duke.edu/~reif/research.html), Prof. [Marya Lieberman](https://chemistry.nd.edu/people/marya-lieberman/), and Prof. [Yamil J. Colón](https://www.computationalnano.org/).
+During my doctoral studies, I have had the privilege of collaborating with the laboratories of Prof. [Stephen Elledge](https://elledge.hms.harvard.edu/) and Prof. [Jonathan Weissman](https://weissman.wi.mit.edu/research/). Previously, I worked with Prof. [John H. Reif](https://users.cs.duke.edu/~reif/research.html), Prof. [Marya Lieberman](https://chemistry.nd.edu/people/marya-lieberman/), and Prof. [Yamil J. Colón](https://www.computationalnano.org/).
 
-Outside of research, I love arts and philosophy.
+Outside of research, I am into art and philosophy.
 
 # Research
-Life science remains a vast black box, its logic hidden within molecular and cellular networks. I hope to uncover the emergent principles that govern life:
+Life science remains a vast black box, its logic hidden within molecular and cellular networks. 
+I am excited about developing new biochemical methods to uncover the emergent principles that govern life:
 * How do intracellular signaling networks generate cellular functions?
 * How do cells communicate and coordinate in living systems to give rise to complex physiology?
-* To understand life is to gain the language to write it: How can we rewrite biology to better understand life itself?
+* To understand life is to learn the language to write it: How can we rewrite biology to better understand life itself?
 
 # Selected Publications
 * *Perturb-Multimodal: a Platform for Pooled Genetic Screens with Sequencing and Imaging in Intact Mammalian Tissue*  

@@ -14,7 +14,7 @@ I am Jiaqi Lu (卢嘉琪), a fourth-year Ph.D. candidate at Harvard University a
 
 During my doctoral studies, I have had the privilege of collaborating with the laboratories of Prof. [Stephen Elledge](https://elledge.hms.harvard.edu/) and Prof. [Jonathan Weissman](https://weissman.wi.mit.edu/research/). Previously, I worked with Prof. [John H. Reif](https://users.cs.duke.edu/~reif/research.html), Prof. [Marya Lieberman](https://chemistry.nd.edu/people/marya-lieberman/), and Prof. [Yamil J. Colón](https://www.computationalnano.org/).
 
-I was born in 2002 and grew up in Beijing, China. At the start of my sophomore year, I changed my major from finance to biochemistry, turning down an investment banking summer analyst offer on Wall Street to pursue science. Outside the lab, I am into art and philosophy.
+Outside the lab, I am into art and philosophy.
 
 # Research
 Life science remains a vast black box, its logic hidden within molecular and cellular networks. 

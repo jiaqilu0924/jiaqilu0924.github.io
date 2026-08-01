@@ -10,7 +10,9 @@ redirect_from:
 
 <div style="font-size: 0.9em;" markdown="1">
 
-I am Jiaqi Lu (卢嘉琪), a fourth-year Ph.D. candidate at Harvard University advised by Prof. [Xiaowei Zhuang](https://zhuang.harvard.edu/index.html). I am working towards a PhD in Bioengineering and a PhD secondary field in Computational Science and Engineering. I am affiliated with Harvard SEAS, MIT, and HHMI. My doctoral research focuses on developing single-cell perturbation platforms that integrate multimodal imaging with AI models to study the functions of hundreds to thousands of genes and proteins in situ. Through these approaches, I systematically characterized thousands of viral proteins with the goal of uncovering new biological mechanisms. I am also developing a high-throughput imaging method to study inter-organ ectopic signaling in vivo in complex immunological context.
+I am Jiaqi Lu (卢嘉琪), Ph.D. student at Harvard University advised by Prof. [Xiaowei Zhuang](https://zhuang.harvard.edu/index.html). 
+
+I am a fourth-year Ph.D. candidate in Bioengineering with a secondary field in Computational Science and Engineering. I am affiliated with Harvard SEAS, Harvard Chemistry and Chemical Biology, and HHMI. My doctoral research focuses on developing single-cell perturbation platforms that integrate multimodal imaging with AI models to study the functions of hundreds to thousands of genes and proteins in situ. Through these approaches, I systematically characterized thousands of viral proteins with the goal of uncovering new biological mechanisms. I am also developing a high-throughput imaging method to study live cell transcription in vitro and inter-organ ectopic signaling in vivo in complex immunological context.
 
 During my doctoral studies, I have had the privilege of collaborating with the laboratories of Prof. [Stephen Elledge](https://elledge.hms.harvard.edu/) and Prof. [Jonathan Weissman](https://weissman.wi.mit.edu/research/). Previously, I worked with Prof. [John H. Reif](https://users.cs.duke.edu/~reif/research.html), Prof. [Marya Lieberman](https://chemistry.nd.edu/people/marya-lieberman/), and Prof. [Yamil J. Colón](https://www.computationalnano.org/).
 
@@ -36,9 +38,10 @@ Steven Wang\*, Runxin Wu\*, **Jiaqi Lu\***, Yijia Jiang, Tao Huang, Yu‐Dong Ca
 [paper](https://doi.org/10.1002/pmic.202100190)
 
 # Awards
-* Karina A. Chen Graduate Student Research Fellowship in Engineering and Applied Sciences, Harvard University, 2023.
+* Claude AI for Science Cohort, Anthropic, 2026. 
+* Karina A. Chen Graduate Student Research Fellowship in Engineering and Applied Sciences, 2023.
 * Vincent P. Slatt Fellowship for Undergraduate Research in Energy Systems and Processes, 2022.
 * Summer Research Funding, Meruelo Family Center for Career Development, 2022.
-* Dean’s List, College of Science, 2021.
+* Dean’s List, College of Science, University of Notre Dame, 2021.
 
 </div>

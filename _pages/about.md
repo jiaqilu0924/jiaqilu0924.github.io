@@ -10,22 +10,27 @@ redirect_from:
 
 <div style="font-size: 0.9em;" markdown="1">
 
-I am Jiaqi Lu (卢嘉琪), Ph.D. student at Harvard University advised by Prof. [Xiaowei Zhuang](https://zhuang.harvard.edu/index.html). 
+I am Jiaqi Lu, Ph.D. student at Harvard University advised by Prof. [Xiaowei Zhuang](https://zhuang.harvard.edu/index.html). 
 
-I am a fourth-year Ph.D. candidate in Bioengineering with a secondary field in Computational Science and Engineering. I am affiliated with Harvard SEAS, Harvard Chemistry and Chemical Biology, and HHMI. My doctoral research focuses on developing single-cell perturbation platforms that integrate multimodal imaging with AI models to study the functions of hundreds to thousands of genes and proteins in situ. Through these approaches, I systematically characterized thousands of viral proteins with the goal of uncovering new biological mechanisms. I am also developing a multiplexed imaging technology to study live cell transcription in vitro and a high-throughput imaging method to study inter-organ ectopic signaling in vivo in complex immunological context.
+I am a fourth-year Ph.D. candidate in Bioengineering with a secondary field in Computational Science and Engineering. I am affiliated with Harvard SEAS, Harvard Chemistry and Chemical Biology, and HHMI. My doctoral research focuses on developing single-cell perturbation platforms that integrate multimodal imaging with AI models to study the functions of hundreds to thousands of genes and proteins in situ. Through these approaches, I systematically characterized thousands of viral proteins with the goal of uncovering new biological mechanisms. I am also developing a multiplexed imaging technology to study live cell transcription in vitro.
 
 During my doctoral studies, I have had the privilege of collaborating with the laboratories of Prof. [Stephen Elledge](https://elledge.hms.harvard.edu/) and Prof. [Jonathan Weissman](https://weissman.wi.mit.edu/research/). Previously, I worked with Prof. [John H. Reif](https://users.cs.duke.edu/~reif/research.html), Prof. [Marya Lieberman](https://chemistry.nd.edu/people/marya-lieberman/), and Prof. [Yamil J. Colón](https://www.computationalnano.org/).
 
 Outside the lab, I am into art and philosophy.
 
 # Research
-Life science remains a vast black box, its logic hidden within molecular and cellular networks. 
-I am excited about developing new biochemical methods to uncover the emergent principles that govern life:
-* How do intracellular signaling networks generate cellular functions?
-* How do cells communicate and coordinate in living systems to give rise to complex physiology?
-* To understand life is to learn the language to write it: How can we rewrite biology to better understand life itself?
+Living systems are made of parts we can now measure, yet the rules by which those parts organize into function remain largely unknown. My approach is to build measurements and theory together: high-dimensional, spatially resolved readouts of many cells at once, and physical theory built directly from that data, in the tradition of statistical physics. I am excited about uncovering the emergent principles that govern life:
+* What are the effective interactions between cells, and what collective states do they produce?
+* When does order in a tissue, a colony, or a signaling network emerge from local rules, and what governs how robust it is?
+* Can we write down a statistical mechanics of living matter that predicts, from measurable quantities, how life organizes itself?
 
 # Selected Publications
+* **In Preparation (2026)**: *Multimodal Imgaing for Large-Scale Mapping of Host Cell Remodeling by the Viral Proteome*
+**Jiaqi Lu**, Aaron R. Halpern, Zhengkai Huang, Reuben A. Saunders, William E. Allen, Jonathan S. Weissman, Stephen S. Elledge, Xiaowei Zhuang
+
+* **BioRxiv (2026)**: *MERFISH-based pooled genetic screening of cell non-autonomous phenotypes in intact tissue*
+Kang Jin\*, Reuben A. Saunders\*, Jiahao Zhang, **Jiaqi Lu**, Aaron R. Halpern, Jaspreet Sandhu, Xingjie Pan, Cosmos Yuqi Wang, William E. Allen, Jonathan S. Weissman, Xiaowei Zhuang
+
 * **Cell (2025)**: *Perturb-Multimodal: a Platform for Pooled Genetic Screens with Sequencing and Imaging in Intact Mammalian Tissue*  
 Reuben A Saunders\*, William E Allen\*, Xingjie Pan, Jaspreet Sandhu, **Jiaqi Lu**, ..., Catherine Dulac, Jonathan S Weissman, Xiaowei Zhuang   
 [paper](https://www.cell.com/cell/fulltext/S0092-8674(25)00572-0)

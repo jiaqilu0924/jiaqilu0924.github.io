@@ -20,16 +20,16 @@ Outside the lab, I am into art and philosophy.
 
 # Research
 Living systems are made of parts we can now measure, yet the rules by which those parts organize into function remain largely unknown. My approach is to build measurements and theory together: high-dimensional, spatially resolved readouts of many cells at once, and physical theory built directly from that data, in the tradition of statistical physics. I am excited about uncovering the emergent principles that govern life:
-* What are the effective interactions between cells, and what collective states do they produce?
-* When does order in a tissue, a colony, or a signaling network emerge from local rules, and what governs how robust it is?
+* What are the effective intra and inter-cellular interactions, and what collective states do they produce?
+* How does order in a tissue, a colony, or a signaling network emerge from local rules?
 * Can we write down a statistical mechanics of living matter that predicts, from measurable quantities, how life organizes itself?
 
 # Selected Publications
-* **In Preparation (2026)**: *Multimodal Imgaing for Large-Scale Mapping of Host Cell Remodeling by the Viral Proteome*
-**Jiaqi Lu**, Aaron R. Halpern, Zhengkai Huang, Reuben A. Saunders, William E. Allen, Jonathan S. Weissman, Stephen S. Elledge, Xiaowei Zhuang
+* **In Preparation (2026)**: *Multimodal Imgaing for Large-Scale Mapping of Host Cell Remodeling by the Viral Proteome*  
+**Jiaqi Lu**, Aaron R. Halpern, Zhengkai Huang, Reuben A. Saunders, William E. Allen, Jonathan S. Weissman, Stephen S. Elledge, Xiaowei Zhuang  
 
-* **BioRxiv (2026)**: *MERFISH-based pooled genetic screening of cell non-autonomous phenotypes in intact tissue*
-Kang Jin\*, Reuben A. Saunders\*, Jiahao Zhang, **Jiaqi Lu**, Aaron R. Halpern, Jaspreet Sandhu, Xingjie Pan, Cosmos Yuqi Wang, William E. Allen, Jonathan S. Weissman, Xiaowei Zhuang
+* **BioRxiv (2026)**: *MERFISH-based pooled genetic screening of cell non-autonomous phenotypes in intact tissue*  
+Kang Jin\*, Reuben A. Saunders\*, Jiahao Zhang, **Jiaqi Lu**, Aaron R. Halpern, Jaspreet Sandhu, Xingjie Pan, Cosmos Yuqi Wang, William E. Allen, Jonathan S. Weissman, Xiaowei Zhuang  
 
 * **Cell (2025)**: *Perturb-Multimodal: a Platform for Pooled Genetic Screens with Sequencing and Imaging in Intact Mammalian Tissue*  
 Reuben A Saunders\*, William E Allen\*, Xingjie Pan, Jaspreet Sandhu, **Jiaqi Lu**, ..., Catherine Dulac, Jonathan S Weissman, Xiaowei Zhuang   

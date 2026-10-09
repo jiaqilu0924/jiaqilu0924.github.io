@@ -19,7 +19,7 @@ During my doctoral studies, I have had the privilege of collaborating with the l
 Outside the lab, I am into art and philosophy.
 
 # Research
-Living systems are composed of parts we can increasingly measure, yet the principles by which these parts collectively give rise to biological function remain largely unknown. My approach is to develop experimental measurements and physical theory in tandem: combining high-dimensional, spatially resolved measurements of many interacting cells with theoretical frameworks grounded in statistical physics and machine learning. I aim to uncover the emergent principles governing biological organization, with particular interest in two fundamental questions: 
+Living systems are composed of parts we can increasingly measure, yet the principles by which these parts collectively give rise to biological function remain largely unknown. My approach is to develop experimental measurements and physical theory in tandem: combining high-dimensional, spatially resolved measurements of many interacting cells with theoretical frameworks grounded in statistical physics and machine learning. I aim to uncover the emergent principles governing biological organization, with particular interest in three fundamental questions: 
 * What are the effective intra and inter-cellular interactions, and what collective states do they produce?
 * How does order in a tissue, a colony, or a signaling network emerge from local rules?
 * How do signals propagate between distant cells, tissues, and organs, and how does long-range communication coordinate organism-wide physiological function?

@@ -19,10 +19,10 @@ During my doctoral studies, I have had the privilege of collaborating with the l
 Outside the lab, I am into art and philosophy.
 
 # Research
-Living systems are made of parts we can now measure, yet the rules by which those parts organize into function remain largely unknown. My approach is to build measurements and theory together: high-dimensional, spatially resolved readouts of many cells at once, and physical theory built directly from that data, in the tradition of statistical physics. I am excited about uncovering the emergent principles that govern life:
+Living systems are composed of parts we can increasingly measure, yet the principles by which these parts collectively give rise to biological function remain largely unknown. My approach is to develop experimental measurements and physical theory in tandem: combining high-dimensional, spatially resolved measurements of many interacting cells with theoretical frameworks grounded in statistical physics and machine learning. I aim to uncover the emergent principles governing biological organization, with particular interest in two fundamental questions: 
 * What are the effective intra and inter-cellular interactions, and what collective states do they produce?
 * How does order in a tissue, a colony, or a signaling network emerge from local rules?
-* Can we write down a statistical mechanics of living matter that predicts, from measurable quantities, how life organizes itself?
+* How do signals propagate between distant cells, tissues, and organs, and how does long-range communication coordinate organism-wide physiological function?
 
 # Selected Publications
 * **In Preparation (2026)**: *Multimodal Imgaing for Large-Scale Mapping of Host Cell Remodeling by the Viral Proteome*  

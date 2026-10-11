@@ -16,7 +16,7 @@ I am a fourth-year Ph.D. candidate in Bioengineering with a secondary field in C
 
 During my doctoral studies, I have had the privilege of collaborating with the laboratories of Prof. [Stephen Elledge](https://elledge.hms.harvard.edu/) and Prof. [Jonathan Weissman](https://weissman.wi.mit.edu/research/). Previously, I worked with Prof. [John H. Reif](https://users.cs.duke.edu/~reif/research.html), Prof. [Marya Lieberman](https://chemistry.nd.edu/people/marya-lieberman/), and Prof. [Yamil J. Colón](https://www.computationalnano.org/).
 
-Outside the lab, I am into art and philosophy.
+Outside the lab, I am into [art](https://jiaqilu0924.github.io/artwork/) and philosophy.
 
 # Research
 Living systems are composed of parts we can increasingly measure, yet the principles by which these parts collectively give rise to biological function remain largely unknown. My approach is to develop experimental measurements and physical theory in tandem: combining high-dimensional, spatially resolved measurements of many interacting cells with theoretical frameworks grounded in statistical physics and machine learning. I aim to uncover the emergent principles governing biological organization, with particular interest in three fundamental questions: 

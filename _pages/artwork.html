@@ -17,6 +17,7 @@ author_profile: true
 }
 
 .art-item {
+  display: block;   /* override the theme's display: flex on <figure> */
   margin: 0;
   text-align: center;
 }
@@ -38,6 +39,7 @@ author_profile: true
 }
 
 .art-item figcaption {
+  width: 100%;      /* span the full width so centering works */
   margin-top: 12px;
   color: #777;
   font-size: 0.85em;
@@ -140,20 +142,6 @@ author_profile: true
     </a>
     <figcaption>
       <em>The Pagoda</em>, 2019<br>
-      Pen on paper, 12 × 8 in.
-    </figcaption>
-  </figure>
-
-  <!-- Stone Lion -->
-  <figure class="art-item">
-    <a href="/images/artwork/IMG_7099.jpeg">
-      <img
-        src="/images/artwork/IMG_7099.jpeg"
-        alt="Stone Lion, pen drawing, 2019"
-        loading="lazy">
-    </a>
-    <figcaption>
-      <em>Stone Lion</em>, 2019<br>
       Pen on paper, 12 × 8 in.
     </figcaption>
   </figure>
